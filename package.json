@@ -1,0 +1,14 @@
+{
+  "name": "blockchain_in_judicial",
+  "version": "1.0.0",
+  "description": "7th sem blockchain project",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "praneeth shetty",
+  "license": "ISC"
+}
